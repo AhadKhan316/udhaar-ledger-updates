@@ -1,0 +1,9 @@
+{
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "apkUrl": "https://vercel.com/ahad-khans-projects-f48d0f78/udhaar-ledger-updates/app-arm64-v8a-release.apk",
+  "playStoreUrl": "",
+  "iosAppStoreUrl": "",
+  "force": false,
+  "releaseNotes": "Bug fixes and improved update support."
+}
