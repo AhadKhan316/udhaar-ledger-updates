@@ -1,9 +1,9 @@
 {
-  "versionCode": 4,
-  "versionName": "1.0.3",
- "apkUrl": "https://udhaar-ledger-updates.vercel.app/udhaar-ledger/app-arm64-v8a-release.apk",
+  "versionCode": 5,
+  "versionName": "1.0.4",
+  "apkUrl": "https://udhaar-ledger-updates.vercel.app/udhaar-ledger/app-arm64-v8a-release.apk",
   "playStoreUrl": "",
   "iosAppStoreUrl": "",
   "force": false,
-  "releaseNotes": "Bug fixes and improved update support."
+  "releaseNotes": "New update available."
 }
