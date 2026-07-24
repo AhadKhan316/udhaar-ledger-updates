@@ -1,9 +1,9 @@
 {
-  "versionCode": 6,
-  "versionName": "1.0.5",
+  "versionCode": 7,
+  "versionName": "1.0.6",
   "apkUrl": "https://udhaar-ledger-updates.vercel.app/udhaar-ledger/app-arm64-v8a-release.apk",
   "playStoreUrl": "",
   "iosAppStoreUrl": "",
   "force": false,
-  "releaseNotes": "New update available."
+  "releaseNotes": "Cloud backup aur sync behtar. Duplicate customer masla fix. Fingerprint lock ab logout par bhi safe rehta hai."
 }
